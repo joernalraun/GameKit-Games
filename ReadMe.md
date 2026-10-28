@@ -1,6 +1,6 @@
 # Spiele für das Calliope mini GameKit
 
-Diese Sammlung enthält Spiele für **MakeCode Arcade**. Sie sind für den **Calliope mini mit der Hardwareerweiterung GameKit** gebaut.
+Diese Sammlung enthält Spiele für den **Calliope mini mit der Hardwareerweiterung GameKit**.
 Jedes Spiel hat ein individuelles mit Spielprinzip und dementsprechend eine eigene Steuerung.
 Diese Datei beschreibt, was alle Spiele gemeinsam haben.
 
@@ -16,6 +16,15 @@ Diese Datei beschreibt, was alle Spiele gemeinsam haben.
 | **Verbindung** | USB-Kabel zum Aufspielen, Stromversorgung über USB oder Batterie |
 
 Die Spiele nutzen nur die Eingaben, die MakeCode Arcade fest vorsieht: **Steuerkreuz** (oben, unten, links, rechts) und die Tasten **A** und **B**.
+
+---
+
+## Mehrspieler-Spiele
+
+| **Tennis**
+| **Mini Racer**
+
+Diese Spiele können allein oder zu zweit gespielt werden. Damit man sie zusammen spielen kann, ist es wichtig, dass man ein Jacdac-Kabel an beiden Calliope mini ansteckt. Die Verbindung läuft automatisch, sobald der zweite Calliope mini erkannt wird.
 
 ---
 
